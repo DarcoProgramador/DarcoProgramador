@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Go Api's with Echo framework
+- 🌱 I’m currently learning Github and his tools
+- 👯 I'm looking to collaborate on a go library or api
+- 💬 Ask me about SQL or Go
 <!--
 **DarcoProgramador/DarcoProgramador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
