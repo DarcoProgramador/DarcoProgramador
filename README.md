@@ -41,7 +41,7 @@
 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)   ![Figma](https://img.shields.io/badge/figma-282828?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  ![Docker](https://img.shields.io/badge/docker-075d8e?style=for-the-badge&logo=docker)  ![VS Code](https://img.shields.io/badge/vs%20code-FFFFFF?style=for-the-badge&logo=visual%20studio%20code&logoColor=40a8eb)
 
-<h3>📝Learning about... Stack:</h3>
+<h3>📝Learning about...</h3>
 
 ![React](https://img.shields.io/badge/react-%231399C4?style=for-the-badge&logo=react) ![Next.js](https://img.shields.io/badge/nextjs-%23000000?style=for-the-badge&logo=next.js) ![MUI](https://img.shields.io/badge/mui-%23101418?style=for-the-badge&logo=mui) ![ReactQuery](https://img.shields.io/badge/react%20query-%23111827?style=for-the-badge&logo=react-query)   ![ReactHookForm](https://img.shields.io/badge/react%20hook%20form-%23081229?style=for-the-badge&logo=react-hook-form)
 
