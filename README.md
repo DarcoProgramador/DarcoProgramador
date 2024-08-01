@@ -6,7 +6,7 @@
 <p align="center">I'm open to work in collaborative projects</p>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/david-antonio-torres-carcache-04884a250/" target="blank"><img align=center src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="DavidMojica" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/davidtorrescarc/" target="blank"><img align=center src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="DavidMojica" height="30" width="40" /></a>
 </p>
 
 <p align="center">
