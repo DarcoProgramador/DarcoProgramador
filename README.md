@@ -14,7 +14,7 @@
 
 ![C#](https://img.shields.io/badge/c%23-%23964D92?style=for-the-badge&logo=c%23) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-456783?style=for-the-badge&logo=go) ![Kotlin](https://img.shields.io/badge/kotlin-6354?style=for-the-badge&logo=kotlin) ![Kotlin](https://img.shields.io/badge/java-5896?style=for-the-badge&logo=java&color=orange)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)    
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%231399C4?style=for-the-badge&logo=react) 
 </p>
 
 <h3> <img src="https://img.icons8.com/?size=80&id=64502&format=png" width="30" align="center"> Database Stack</h3>
@@ -43,7 +43,7 @@
 
 <h3>📝Learning about...</h3>
 
-![React](https://img.shields.io/badge/react-%231399C4?style=for-the-badge&logo=react) ![Next.js](https://img.shields.io/badge/nextjs-%23000000?style=for-the-badge&logo=next.js) ![MUI](https://img.shields.io/badge/mui-%23101418?style=for-the-badge&logo=mui) ![ReactQuery](https://img.shields.io/badge/react%20query-%23111827?style=for-the-badge&logo=react-query)   ![ReactHookForm](https://img.shields.io/badge/react%20hook%20form-%23081229?style=for-the-badge&logo=react-hook-form)
+![Next.js](https://img.shields.io/badge/nextjs-%23000000?style=for-the-badge&logo=next.js) ![MUI](https://img.shields.io/badge/mui-%23101418?style=for-the-badge&logo=mui) ![ReactQuery](https://img.shields.io/badge/react%20query-%23111827?style=for-the-badge&logo=react-query)   ![ReactHookForm](https://img.shields.io/badge/react%20hook%20form-%23081229?style=for-the-badge&logo=react-hook-form)
 
 
 
