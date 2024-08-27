@@ -1,5 +1,5 @@
 <h1 align="center">Greetings! I'm <strong>David Torres</strong> 🦉</h1>
-<h2 align="center">Backend Developer from Nicaragua 🦜👍🏼</h2>
+<h2 align="center">Software Developer from Nicaragua 🦜👍🏼</h2>
 <p align="center">💫 I'm a Software Development student at <a href="https://www.uni.edu.ni/">Universidad Nacional de Ingeniería</a> , soon to graduate in 2025. I've been freelancing as a developer, working on web development, desktop applications and mobile applications.</p>
 
 <h3 align="center">let's talk together! 💬</h3>
